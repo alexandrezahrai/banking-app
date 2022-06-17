@@ -1,4 +1,4 @@
-#Banking App
+# Banking App
 
 ### JavaScript, CSS, HTML
 
